@@ -1,0 +1,14 @@
+El proyecto es un script de Python normal.
+
+Se requiere instalar las siguientes dependencias:
+> pip install sqlalchemy
+> pip install pandas
+
+*PARA EJECUTAR*
+
+1. Se puede ejecutar desde linea de comandos utilizando el siguiente comando (se requiere estar dentro de la carpeta donde está el script):
+
+    > python script.py
+
+2. Se puede abrir en un editor de código (como VS Code) para ejecutarlo desde el debugger
+
